@@ -1,0 +1,10 @@
+local info = {
+  discord = "https://discord.gg/Us29FnRY";
+  status = "enabled";
+  announcement = "";
+  support_discord = {
+    strucid = "@kelbladi";
+    da_hood = "@kelbladi";
+  }
+}
+return info
